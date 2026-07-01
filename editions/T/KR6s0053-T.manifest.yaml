@@ -1,0 +1,428 @@
+canonical_identifier: bkk:krp/KR6s0053/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0053/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 泉州千佛新著諸祖師頌
+  identifiers:
+    krp: KR6s0053
+    cbeta: T85n2861
+    cbeta_old_id: T85n2861
+    authorityid: CA0004882
+    json_key: T2861
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2861.xml
+    old_id: T85n2861
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0053_000-T.yaml, hash: 'sha256:4f28783cb0e53ef525783839df1d9f73c5d3446e3052b6d8315605c78dcd916d'}
+  - {seq: 1, filename: KR6s0053_001-T.yaml, hash: 'sha256:52c1663b946d4639d9b663ef05d48c8f006185467ddaef91957aab9cbba2d196'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0053_000-T.markers.yaml, hash: 'sha256:8d8976398313f4333b1068b4aed9e6daeb09d4f61418a07b587142dbec354bb3'}
+  - {seq: 1, role: markers, filename: assets/KR6s0053_001-T.markers.yaml, hash: 'sha256:dad26bfceb4a26f6d7a49ae5aeaf7c39d13c4930082859a6f752df089705426d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1794
+  label: 泉州千佛新著諸祖師頌
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-1
+    span:
+    - body
+    - 206
+    - 206
+  label: 初祖大迦葉尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-2
+    span:
+    - body
+    - 245
+    - 245
+  label: 第二祖阿難尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-3
+    span:
+    - body
+    - 284
+    - 284
+  label: 第三祖商那和修尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-4
+    span:
+    - body
+    - 325
+    - 325
+  label: 第四祖優波毱多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-5
+    span:
+    - body
+    - 365
+    - 365
+  label: 第五祖提多迦尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-6
+    span:
+    - body
+    - 421
+    - 421
+  label: 第六祖彌遮迦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-7
+    span:
+    - body
+    - 459
+    - 459
+  label: 第七祖婆須蜜尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-8
+    span:
+    - body
+    - 499
+    - 499
+  label: 第八祖佛陀難提尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-9
+    span:
+    - body
+    - 540
+    - 540
+  label: 第九祖伏陀蜜多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-10
+    span:
+    - body
+    - 581
+    - 581
+  label: 第十祖脇尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-11
+    span:
+    - body
+    - 619
+    - 619
+  label: 第十一祖富那夜奢尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-12
+    span:
+    - body
+    - 661
+    - 661
+  label: 第十二祖馬鳴菩薩尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-13
+    span:
+    - body
+    - 702
+    - 702
+  label: 第十三祖迦毘羅尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-14
+    span:
+    - body
+    - 743
+    - 743
+  label: 第十四祖龍樹菩薩尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-15
+    span:
+    - body
+    - 785
+    - 785
+  label: 第十五祖迦那提婆尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-16
+    span:
+    - body
+    - 827
+    - 827
+  label: 第十六祖羅睺羅多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-17
+    span:
+    - body
+    - 869
+    - 869
+  label: 第十七祖僧迦難提尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-18
+    span:
+    - body
+    - 911
+    - 911
+  label: 第十八祖迦耶舍多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-19
+    span:
+    - body
+    - 953
+    - 953
+  label: 第十九祖鳩摩羅多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-20
+    span:
+    - body
+    - 995
+    - 995
+  label: 第二十祖闍夜多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-21
+    span:
+    - body
+    - 1036
+    - 1036
+  label: 第二十一祖婆修盤頭尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-22
+    span:
+    - body
+    - 1079
+    - 1079
+  label: 第二十二祖摩拏羅尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-23
+    span:
+    - body
+    - 1121
+    - 1121
+  label: 第二十三祖鶴勒尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-24
+    span:
+    - body
+    - 1162
+    - 1162
+  label: 第二十四祖師子尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-25
+    span:
+    - body
+    - 1203
+    - 1203
+  label: 第二十五祖婆舍斯多尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-26
+    span:
+    - body
+    - 1246
+    - 1246
+  label: 第二十六祖不如蜜多者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-27
+    span:
+    - body
+    - 1288
+    - 1288
+  label: 第二十七祖般若多羅尊者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-28
+    span:
+    - body
+    - 1331
+    - 1331
+  label: 第二十八祖唐土六代祖師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-29
+    span:
+    - body
+    - 1342
+    - 1342
+  label: 第一達摩祖師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-30
+    span:
+    - body
+    - 1380
+    - 1380
+  label: 第二祖惠可大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-31
+    span:
+    - body
+    - 1419
+    - 1419
+  label: 第三祖僧璨大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-32
+    span:
+    - body
+    - 1458
+    - 1458
+  label: 第四祖道信大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-33
+    span:
+    - body
+    - 1497
+    - 1497
+  label: 第五祖弘忍大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-34
+    span:
+    - body
+    - 1536
+    - 1536
+  label: 第六祖惠能大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-35
+    span:
+    - body
+    - 1575
+    - 1575
+  label: 南嶽讓和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-36
+    span:
+    - body
+    - 1617
+    - 1617
+  label: 吉州行司和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-37
+    span:
+    - body
+    - 1659
+    - 1659
+  label: 國師惠忠和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-38
+    span:
+    - body
+    - 1702
+    - 1702
+  label: 石頭和尚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0053_T_001-mulu-39
+    span:
+    - body
+    - 1742
+    - 1742
+  label: 江西馬和尚
+  type: mulu
+  level: 1
+hash: sha256:449f295d23529e658901b240f2e12806a5447fd47bcf0597af19e850e4bb34d7

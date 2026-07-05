@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0053_000.yaml, hash: 'sha256:4f28783cb0e53ef525783839df1d9f73c5d3446e3052b6d8315605c78dcd916d'}
-  - {seq: 1, filename: KR6s0053_001.yaml, hash: 'sha256:ab7248f733f44a9560e07ce245aed454c7adbca200b58d65a9dc10455c8296a6'}
+  - {seq: 1, filename: KR6s0053_001.yaml, hash: 'sha256:52c1663b946d4639d9b663ef05d48c8f006185467ddaef91957aab9cbba2d196'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0053_001.markers.yaml, hash: 'sha256:63c6038f711ba0efe2cc216a1965522fcc32d17b2b769d34d5ceef935b0e0881'}
+  - {seq: 0, role: markers, filename: assets/KR6s0053_000.markers.yaml, hash: 'sha256:e250303754a0cdae56eacfa5e45374e90c39a4012bdb00148369d24ab21bb9eb'}
+  - {seq: 1, role: markers, filename: assets/KR6s0053_001.markers.yaml, hash: 'sha256:c00991728ff431f5cdcd352fd18cddd9f22fabf67587211b348e70fb34689c19'}
 table_of_contents:
 - ref:
     seq: 1
@@ -426,7 +427,4 @@ table_of_contents:
   label: 江西馬和尚
   type: mulu
   level: 1
-hash: sha256:60a32cabe8163fbba27631c66f712ab5c648540705fd376b93b5d909a4c138a5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0895f66bbbfa15a238bdad806b9866e742113b9e7b60925b43c011182509bbca

@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0053/v1
 canonical_location: https://kanripo.org/bkk/KR6s0053/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 泉州千佛新著諸祖師頌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0053_000.yaml, hash: 'sha256:4f28783cb0e53ef525783839df1d9f73c5d3446e3052b6d8315605c78dcd916d'}
-  - {seq: 1, filename: KR6s0053_001.yaml, hash: 'sha256:52c1663b946d4639d9b663ef05d48c8f006185467ddaef91957aab9cbba2d196'}
+  - {seq: 1, filename: KR6s0053_001.yaml, hash: 'sha256:77dd8e5cd4562bbf08e39d1c323c946b3c25836d44d53c6a87eba6b57a3c83fb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0053_000.markers.yaml, hash: 'sha256:e250303754a0cdae56eacfa5e45374e90c39a4012bdb00148369d24ab21bb9eb'}
-  - {seq: 1, role: markers, filename: assets/KR6s0053_001.markers.yaml, hash: 'sha256:c00991728ff431f5cdcd352fd18cddd9f22fabf67587211b348e70fb34689c19'}
+  - {seq: 1, role: markers, filename: assets/KR6s0053_001.markers.yaml, hash: 'sha256:c82ce622c26d0873827f330ac4b25d8f492f7890fabff1cb82da4a6298faf920'}
 table_of_contents:
 - ref:
     seq: 1
@@ -427,4 +427,7 @@ table_of_contents:
   label: 江西馬和尚
   type: mulu
   level: 1
-hash: sha256:0895f66bbbfa15a238bdad806b9866e742113b9e7b60925b43c011182509bbca
+hash: sha256:c7444dc701426b22abd13c76b903cb25a9a628b55e15973f8c5ae3059432cad6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
